@@ -3,4 +3,5 @@
 * Queue
 * Stack
 * Trees
-    ** BST
+   * General trees
+   * BST
