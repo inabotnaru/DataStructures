@@ -4,6 +4,5 @@
 * Stack
 * Trees
    * General trees
-   * BT
    * BST
    * AVL
