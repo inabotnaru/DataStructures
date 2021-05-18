@@ -6,3 +6,4 @@
    * General trees
    * BST
    * AVL
+   * Splay
