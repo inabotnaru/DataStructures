@@ -7,3 +7,4 @@
    * BST
    * AVL
    * Splay
+* Hash Tables
