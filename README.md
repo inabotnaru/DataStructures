@@ -1,6 +1,7 @@
 # DataStructures
 * Linked Lists
 * Queue
+* Priority Queue
 * Stack
 * Trees
    * General trees
