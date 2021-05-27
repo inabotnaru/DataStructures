@@ -8,4 +8,4 @@
    * BST
    * AVL
    * Splay
-* Hash Tables
+* Hash Map
