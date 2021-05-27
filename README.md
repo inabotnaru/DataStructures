@@ -6,6 +6,7 @@
 * Trees
    * General trees
    * BST
+   * Binary Heap
    * AVL
    * Splay
 * Hash Map
