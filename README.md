@@ -11,3 +11,4 @@
    * Splay
 * Hash Map
 * Sets
+* Graphs
