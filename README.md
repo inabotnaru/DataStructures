@@ -1,9 +1,8 @@
 # DataStructures
 * Linked Lists
-    Implementation of the linked list data structure.
+    Implementation of the singly linked list data structure.
     MyList<E> interface
     MyAbstractList<E>
-    Node<E> class
     MyLinkedList<E>
     TestLinkedList
 * Queue
